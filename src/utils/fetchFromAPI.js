@@ -5,8 +5,8 @@ const BASE_URL = 'https://youtube-v31.p.rapidapi.com'
 const options = {
   method: 'GET',
   params: {
-    part: 'snippet',
-    videoId: 'M7FIvfx5J10',
+    // part: 'snippet',
+    // videoId: 'M7FIvfx5J10',
     maxResults: '50',
   },
   headers: {
